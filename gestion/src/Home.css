@@ -1,0 +1,89 @@
+.table-container {
+    margin: 20px;
+    padding: 20px;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Add Data button */
+  .add-data-button {
+    text-decoration: none;
+    background-color: #007BFF;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    display: inline-block;
+    transition: background-color 0.3s;
+  }
+  
+  .add-data-button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Table styles */
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #fff;
+  }
+  
+  /* Table header styles */
+  .table th {
+    background-color: #007BFF;
+    color: #fff;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  /* Table row styles */
+  .table tr {
+    border-bottom: 1px solid #ddd;
+  }
+  
+  /* Table data cell styles */
+  .table td {
+    padding: 10px;
+    text-align: left;
+  }
+  
+  /* Image styles */
+  .table img {
+    max-width: 100px;
+    height: auto;
+  }
+  
+  /* Action buttons */
+  .actions button {
+    margin: 5px;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 3px;
+  }
+  
+  /* Update button */
+  .update {
+    background-color: #5BC0DE;
+    color: #fff;
+  }
+  
+  .update:hover {
+    background-color: #3498DB;
+  }
+  
+  /* Delete button */
+  .delete {
+    background-color: #D9534F;
+    color: #fff;
+  }
+  
+  .delete:hover {
+    background-color: #C9302C;
+  }
+
+  .linkStyle{
+    background-color: red;
+  }
+  
